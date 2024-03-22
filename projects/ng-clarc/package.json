@@ -1,0 +1,23 @@
+{
+  "name": "@foblex/ng-clarc",
+  "version": "1.0.0",
+  "description": "A ngClarc library providing a set of utilities and interfaces for various projects.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siarheihuzarevich/f-ng-infra.git"
+  },
+  "private": false,
+  "keywords": [
+    "Angular",
+    "Foblex",
+    "development",
+    "kit"
+  ],
+  "author": "Siarhei Huzarevich",
+  "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

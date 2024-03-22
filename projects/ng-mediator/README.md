@@ -7,7 +7,7 @@ ngMediator is a mediator library for Angular that facilitates a clean architectu
 Install the ngMediator library via npm:
 
 ```bash
-npm install @foblex/ng-mediator --save
+npm install @foblex/ng-mediator
 ```
 
 ## Usage

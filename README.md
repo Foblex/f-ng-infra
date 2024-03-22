@@ -7,7 +7,7 @@ ngMediator is a mediator library for Angular that facilitates a clean architectu
 Install the ngMediator library via npm:
 
 ```bash
-npm install @foblex/ng-mediator --save
+npm install @foblex/ng-mediator
 ```
 
 ## Usage
@@ -72,3 +72,15 @@ ngMediator simplifies the handling of commands and queries within your Angular a
     });
     ```
 
+
+# ngClarc Library
+
+ngClarc is infrastructure library for Angular that provides a robust set of utilities and interfaces designed to simplify and enhance various projects.
+
+## Installation
+
+Install the ngClarc library via npm:
+
+```bash
+npm install @foblex/ng-clarc 
+```
