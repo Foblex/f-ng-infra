@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "publish_clarc": "ng build ng-clarc && cd dist/ng-clarc && npm publish",
+    "publish_mediator": "ng build ng-mediator && cd dist/ng-mediator && npm publish"
   },
   "private": true,
   "dependencies": {

@@ -2,7 +2,7 @@ export interface IErrorDescription {
 
   key?: string;
 
-  code?: number;
+  code?: string;
 
   message?: string;
 
